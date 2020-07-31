@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Copy a repository to your local machine with `git clone`
+- Copy the repository to your local machine with `git clone`
 - List remotes with `git remote`
 - Duplicate other organizations' repositories into your own via GitHub with the "Fork" button
 
